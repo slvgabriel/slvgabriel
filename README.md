@@ -1,16 +1,20 @@
-### Hi there 👋
+## Sobre mim <h1>
+Olá. Meu nome é Gabriel Silva. <br>
 
-<!--
-**ssgbrl/ssgbrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recem formado em Análise e Desenvolvimento de Sistemas, estou em busca de um oportunidade de emprego na área de tecnologia, mais especificamente em desenvolvimento front-end.<br>
 
-Here are some ideas to get you started:
+## Linguagens e Técnologias <h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conhecimentos básicos em:<br>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35"/><br>
+
+Atualmente estudando: <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
+                    
+          
+## Contato <h2>
+<div>
+<a href="https://www.linkedin.com/in/gsouza28/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
