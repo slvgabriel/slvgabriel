@@ -1,23 +1,24 @@
+<a href="https://github.com/ssgbrl/ssgbrl-en">```Read this section in English```</a>
+
 ## Sobre Mim<h3>
 
 <p>:star: Brasileiro, 27 anos. Natural do Rio de Janeiro. 
 
 :mortar_board: Formado em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida.
 
-Iniciante no mundo da programação. Aspirante a desenvolvedor front-end.
+:books: Iniciante no mundo da programação. Aspirante a desenvolvedor front-end. Sempre em constante aprendizado.
 
-Apaixonado por games, tecnologia e linguas. Em constante aprendizado.
+:video_game: Apaixonado por games, tecnologia e estudo de idiomas.
 
-## Linguagens e Técnologias <h3>
+## Linguagens e Tecnologias <h3>
 
-Conhecimentos básicos em:<br>
+Conhecimentos em:<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45"/><br>
 
 Atualmente estudando: <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
-                    
           
 ## Contato<h3>
 <div>
