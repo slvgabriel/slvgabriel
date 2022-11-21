@@ -6,7 +6,7 @@
 
 :mortar_board: Formado em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida.  
 
-:books: Iniciante no mundo da programação. Aspirante a desenvolvedor front-end. Sempre em constante aprendizado.  
+:books: Iniciante no mundo da programação. Aspirante a desenvolvedor front-end. Em constante aprendizado.  
 
 :video_game: Apaixonado por games, tecnologia e estudo de idiomas.  
 
