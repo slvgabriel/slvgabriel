@@ -4,7 +4,7 @@
 
 :books: Iniciante no mundo da programação. Aspirante a desenvolvedor front-end. Em constante aprendizado.
 
-:video_game: Sou apaixonado por games, tecnologia e estudo de idiomas. 
+:video_game: Apaixonado por tecnologia, games e estudo de idiomas. 
 
 
 ## Stacks 
