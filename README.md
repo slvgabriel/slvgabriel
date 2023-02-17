@@ -1,13 +1,11 @@
-## Sobre Mim 
+### Sobre Mim
 
-:star: Brasileiro, 27 anos. Natural do Rio de Janeiro. 
+Brasileiro, 28 anos. Iniciante no mundo da programação, entusiasta em montagem de PCs e gamer desde criança. 
 
-:books: Iniciante no mundo da programação. Aspirante a desenvolvedor front-end. Em constante aprendizado.
-
-:video_game: Apaixonado por tecnologia, games e estudo de idiomas. 
+Tenho como objetivo me tornar um desenvolvedor web e aprimorar meus conhecimentos para que eu possa criar experiências únicas.
 
 
-## Stacks 
+### Stacks 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>  
           
