@@ -1,8 +1,6 @@
 ### Sobre Mim
 
-Brasileiro, 28 anos. Iniciante no mundo da programação, entusiasta de hardwares e gamer desde criança. 
-
-Tenho como objetivo me tornar um desenvolvedor web e aprimorar meus conhecimentos para que eu possa criar experiências únicas.
+Brasileiro, 28 anos. Estudante de desenvolvimento web. 
 
 
 ### Stacks 
