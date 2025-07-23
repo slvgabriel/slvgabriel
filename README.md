@@ -1,7 +1,6 @@
 ### About me. 
 
 Brazilian. 30 years old.  
-Currently working as a IT Support Technician. Aspiring web-developer.
 
 ***
 
