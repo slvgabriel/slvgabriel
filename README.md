@@ -1,7 +1,8 @@
 ### About me. 
 
 Brazilian. 30 years old.  
-Working as a IT Support Technician.
+Working as a IT Support Technician.  
+Aspiring Cloud Computing professional
 
 ***
 
@@ -11,9 +12,8 @@ Working as a IT Support Technician.
 
 ***
 
-### Learning
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width= 5% />           
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width= 5%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"  width= 5%/>      
 
 ***
 
